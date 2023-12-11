@@ -20,16 +20,16 @@ export default function ItConsulting() {
               <p>
                 Your business requires advanced technology to stay ahead of its
                 competition. But with all the vendors out there, sometimes, it's
-                hard to make sense of all the options. Unity Networking's expert
-                consultants can develop an effective IT strategy that aligns
-                with your business objectives and goals, so you can make the
-                most of your IT investment.
+                hard to make sense of all the options. Agniet Networking's
+                expert consultants can develop an effective IT strategy that
+                aligns with your business objectives and goals, so you can make
+                the most of your IT investment.
               </p>
             </div>
           </div>
         </div>
         <div className="container pt-4">
-          <h5>IT Consulting services from Unity Networking delivers:</h5>
+          <h5>IT Consulting services from Agniet Networking delivers:</h5>
           <ul>
             <li>
               Strategy and planning - we'll guide you in the right direction
@@ -44,7 +44,7 @@ export default function ItConsulting() {
             </li>
           </ul>
           <p>
-            Unity Networking will work closely with you, and will offer expert
+            Agniet Networking will work closely with you, and will offer expert
             recommendations and industry insights, so you can make the right
             technology decisions. We have provided sound guidance for various
             businesses throughout California - let us do the same for you.

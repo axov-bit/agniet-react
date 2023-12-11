@@ -18,11 +18,12 @@ export default function MicrosoftOffice() {
             </div>
             <div>
               <p>
-                Unity Networking offers powerful Office 365 solutions that allow
-                your employees to collaborate more efficiently online. Office
-                365 features Microsoft's reputable cloud-based applications
-                yo'’re already familiar with, including Word, PowerPoint, Excel,
-                Outlook, Exchange, SharePoint, and so much more.
+                Agniet Networking offers powerful Office 365 solutions that
+                allow your employees to collaborate more efficiently online.
+                Office 365 features Microsoft's reputable cloud-based
+                applications yo'’re already familiar with, including Word,
+                PowerPoint, Excel, Outlook, Exchange, SharePoint, and so much
+                more.
               </p>
             </div>
           </div>

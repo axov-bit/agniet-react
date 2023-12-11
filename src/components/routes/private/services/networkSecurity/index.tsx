@@ -22,7 +22,7 @@ export default function NetworkSecurity() {
                 systems just as much as any big company. But are you aware of
                 the many cyber security threats out there that could bring your
                 network down, resulting in hours or days of downtime? This is
-                where we can help. Unity Networking will monitor the health of
+                where we can help. Agniet Networking will monitor the health of
                 your network infrastructure, including your PCs, switches,
                 firewalls and servers.
               </p>
@@ -30,7 +30,7 @@ export default function NetworkSecurity() {
           </div>
         </div>
         <div className="container pt-4">
-          <h5>Network Security solutions from Unity Networking offer:</h5>
+          <h5>Network Security solutions from Agniet Networking offer:</h5>
           <ul>
             <li>
               Proactive support - enjoy peace of mind knowing your network will

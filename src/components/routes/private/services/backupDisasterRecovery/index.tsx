@@ -11,9 +11,17 @@ export default function BackupDisasterRecovery() {
         backgroundPositionY: "100%",
       }}
     >
-      <div className="container">
-        <div className="d-flex gap-5 align-items-center pt-4">
-          <div>
+      <div className="py-4 ps-3 fw-bold">
+        <a
+          href="/services/managedItServices"
+          className="text-decoration-none text-white"
+        >
+          <h4>Managed It Services</h4>
+        </a>
+      </div>
+      <div className="container p-0">
+        <div className="row gap-5 justify-content-between">
+          <div className="col-md-5">
             <img
               src={BackupRecovery}
               alt="businessImage"
@@ -21,9 +29,9 @@ export default function BackupDisasterRecovery() {
               className="rounded"
             />
           </div>
-          <div>
+          <div className="col-md-5">
             <p>
-              Do you have critical data stored on-site? Unity Networking will
+              Do you have critical data stored on-site? Agniet Networking will
               provide you with a backup solution so you can have peace of mind
               knowing your data is safe and recoverable. Our data backup
               solutions include on-site and cloud backups. We can replicate your
@@ -35,7 +43,7 @@ export default function BackupDisasterRecovery() {
       </div>
       <div className="container pt-4">
         <h5>
-          With Unity Networking's Backup and Disaster Recovery solutions, you
+          With Agniet Networking's Backup and Disaster Recovery solutions, you
           get:
         </h5>
         <ul>
@@ -58,7 +66,7 @@ export default function BackupDisasterRecovery() {
           We can't stress enough the importance of having a data backup strategy
           in place. But we also understand that you simply don't have the time
           to manage all backup and recovery operations for your business. Leave
-          it to the experts at Unity Networking - we take no chances when it
+          it to the experts at Agniet Networking - we take no chances when it
           comes to data security, and we'll ensure your data won't be
           compromised in the event of a disaster.
         </p>

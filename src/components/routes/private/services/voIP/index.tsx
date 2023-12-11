@@ -20,7 +20,7 @@ export default function VOIP() {
               <p>
                 In order to communicate with clients, colleagues, and vendors
                 more effectively, your business must have the same advanced
-                telephony systems used by large enterprises. Here at Unity
+                telephony systems used by large enterprises. Here at Agniet
                 Networking, we offer powerful Voice over Internet Protocol
                 (VoIP) solutions that allow you to get in touch with business
                 contacts easily.
@@ -48,7 +48,7 @@ export default function VOIP() {
             </li>
           </ul>
           <p>
-            When you opt for Unity Networking's VoIP solutions, you can expect
+            When you opt for Agniet Networking's VoIP solutions, you can expect
             nothing less than crystal clear audio and high definition video
             quality. It's time to take advantage of this groundbreaking
             technology and embrace more productivity.

@@ -18,7 +18,7 @@ export default function Virtualization() {
             </div>
             <div>
               <p>
-                Unity Networking has qualified systems engineers to help create
+                Agniet Networking has qualified systems engineers to help create
                 and implement a full and cost effective virtualization roadmap
                 for your business. Whether you are looking for in house server
                 virtualization or cloud desktop virtualization, we have the
@@ -29,7 +29,7 @@ export default function Virtualization() {
           </div>
         </div>
         <div className="container pt-4">
-          <h5>Virtualization solutions from Unity Networking offer:</h5>
+          <h5>Virtualization solutions from Agniet Networking offer:</h5>
           <ul>
             <li>
               Reduced costs - less hardware and maintenance fees mean lower IT
@@ -42,7 +42,7 @@ export default function Virtualization() {
             <li>Enhanced performance - by virtualizing your resources</li>
           </ul>
           <p>
-            Unity Networking's Virtualization solutions will give your business
+            Agniet Networking's Virtualization solutions will give your business
             the agility and flexibility it needs to grow and prosper. We can
             virtualize your internal resources including computers, servers,
             applications, operating systems, and much more, so you and your

@@ -21,15 +21,15 @@ export default function EmailSpamProtection() {
                 Email is at the heart of your business - you use it every day to
                 send out notifications, contact clients, and communicate with
                 colleagues. That's why you can't afford to let malicious
-                security threats infiltrate your email systems. Unity Networking
-                has the necessary tools and technology to keep your company's
-                email safe from viruses and malware.
+                security threats infiltrate your email systems. Agniet
+                Networking has the necessary tools and technology to keep your
+                company's email safe from viruses and malware.
               </p>
             </div>
           </div>
         </div>
         <div className="container pt-4">
-          <h5>Email/Spam Protection solutions from Unity Networking offer:</h5>
+          <h5>Email/Spam Protection solutions from Agniet Networking offer:</h5>
           <ul>
             <li>
               Spam filtering - our intelligent filter quarantines suspicious
@@ -46,7 +46,7 @@ export default function EmailSpamProtection() {
           </ul>
           <p>
             A single email security breach could compromise your entire system.
-            Unity Networking provides powerful yet affordable email security
+            Agniet Networking provides powerful yet affordable email security
             solutions to keep your inboxes clean and spam-free.
           </p>
         </div>

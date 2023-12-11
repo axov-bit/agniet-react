@@ -23,7 +23,7 @@ export default function Header() {
           <a href="/" className={`rounded border p-2 ${styles.buttons}`}>
             Homepage
           </a>
-          <div className="dropdown">
+          <div className={`${styles.dropdownServices} dropdown`}>
             <Link to="/services" />
             <button
               className={`btn text-white rounded p-2 border dropdown-toggle ${styles.buttons}`}
@@ -36,7 +36,7 @@ export default function Header() {
               Services
             </button>
             <div
-              className="dropdown-menu dropdown-menu-right"
+              className={`dropdown-menu dropdown-menu-right`}
               aria-labelledby="dropdownMenuButton"
             >
               <ul className="list-unstyled">
@@ -102,11 +102,11 @@ export default function Header() {
                     Microsoft Office 365
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a className="dropdown-item" href="/services/allIn1Websites">
                     All-in-one Webistes
                   </a>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>

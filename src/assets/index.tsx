@@ -15,6 +15,9 @@ import HomepageBg from "./images/homepage_bg.jpg";
 import AgnietBg2 from "./images/AgnietBg2.jpg";
 import AgnietLogoWhite from "./images/AgnietLogoWhite.jpeg";
 import AgnietLogoBlue2 from "./images/AgnietLogoBlueBg2.png";
+import BackupSupport from "./images/BackupSupport.jpg";
+import EmailProtectionService from "./images/EmailProtection Service.jpg";
+import VOIPService from "./images/VOIPService.png";
 
 export {
   AgnietLogoBlue,
@@ -33,4 +36,7 @@ export {
   AgnietBg2,
   AgnietLogoWhite,
   AgnietLogoBlue2,
+  BackupSupport,
+  EmailProtectionService,
+  VOIPService,
 };

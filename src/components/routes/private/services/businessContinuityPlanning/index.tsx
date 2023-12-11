@@ -27,14 +27,14 @@ export default function BusinessContinuityPlanning() {
               strike your company at the most unexpected times. You risk losing
               everything - your valuable data, clients, reputation, and money -
               if you fail to have an effective business continuity plan (BCP) in
-              place. But not to worry - Unity Networking's Business Continuity
+              place. But not to worry - Agniet Networking's Business Continuity
               Planning solutions have you covered.
             </p>
           </div>
         </div>
       </div>
       <div className="container pt-4">
-        <h5>Business Continuity Planning from Unity Networking includes:</h5>
+        <h5>Business Continuity Planning from Agniet Networking includes:</h5>
         <ul>
           <li>
             Strategy evaluation - a comprehensive assessment and analysis of

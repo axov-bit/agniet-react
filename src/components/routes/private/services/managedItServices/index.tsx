@@ -5,7 +5,7 @@ import { AgnietBg2, ItManagement } from "../../../../../assets";
 export default function ManagedItServices() {
   return (
     <div
-      className={"full-height-container"}
+      className="full-height-container"
       style={{
         backgroundImage: `url(${AgnietBg2})`,
         backgroundSize: "100%",
@@ -17,7 +17,7 @@ export default function ManagedItServices() {
           href="/services/managedItServices"
           className="text-decoration-none text-white"
         >
-          Managed It Services
+          <h4>Managed It Services</h4>
         </a>
       </div>
       <div className="container p-0">

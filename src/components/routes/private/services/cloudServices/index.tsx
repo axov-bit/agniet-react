@@ -25,7 +25,7 @@ export default function CloudServices() {
                 Then you need us.
               </p>
               <p>
-                Unity Networking are specialists when it comes to cloud
+                Agniet Networking are specialists when it comes to cloud
                 computing. Our team of engineers and certified professionals can
                 guide you through the process of these often complex and
                 difficult transitions from physical servers to the cloud.
@@ -34,7 +34,7 @@ export default function CloudServices() {
           </div>
         </div>
         <div className="container pt-4">
-          <h5>Cloud Services from Unity Networking are:</h5>
+          <h5>Cloud Services from Agniet Networking are:</h5>
           <ul>
             <li>Scalable - grow your cloud technology as you need</li>
             <li>
